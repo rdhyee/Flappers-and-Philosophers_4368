@@ -1,0 +1,30 @@
+_repo: Flappers-and-Philosophers_4368
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fitzgerald, F. Scott (Francis Scott)
+    alias: Fitzgerald, Francis Scott Key
+    birthdate: 1896
+    deathdate: 1940
+    gutenberg_agent_id: '420'
+    url: http://www.gutenberg.org/2009/agents/420
+    wikipedia: http://en.wikipedia.org/wiki/F._Scott_Fitzgerald
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: The offshore pirate -- The ice palace -- Head and shoulders -- The
+  cut-glass bowl -- Bernice bobs her hair -- Benediction -- Dalyrimple goes wrong
+  -- The four fists.
+title: Flappers and Philosophers
+url: http://www.gutenberg.org/ebooks/4368
